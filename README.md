@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Integrating+AI+into+real+products+%F0%9F%A4%96;3%2B+years+of+Full-Stack+experience+%F0%9F%94%A5;Currently+%40+University+of+Turku+%F0%9F%87%AB%F0%9F%87%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Integrating+AI+into+real+products+%F0%9F%A4%96;4%2B+years+of+Full-Stack+experience+%F0%9F%94%A5;Currently+%40+University+of+Turku+%F0%9F%87%AB%F0%9F%87%AE)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 - 🎓 MSc ICT student @ **University of Turku, Finland**
 - 💼 Previously **SWE III @ Vartana** & **SWE II @ Educative.io**
-- 🚀 Shipped features used by thousands of real users in production
+- 🚀 **4+ years** shipping features used by thousands in production
 - 🤖 Passionate about AI-driven developer tools and fast APIs
 - 🌍 From Lahore 🇵🇰 — now building in Finland 🇫🇮
 - 📬 Reach me: **taimurbajwa007@gmail.com**
