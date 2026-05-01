@@ -107,22 +107,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTaimur1999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTaimur1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
-</div>
-
-
-
----
-
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadTaimur1999&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadTaimur1999&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -132,6 +119,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Currently open to internship & collaboration opportunities 🚀*
+*Open to full-time Software Engineer roles - let's build something great together 🚀*
 
 </div>
